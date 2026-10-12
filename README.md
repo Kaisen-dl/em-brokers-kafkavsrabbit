@@ -10,12 +10,6 @@ docker compose up -d
 docker compose ps
 ```
 
-## Установка зависимостей
-
-```bash
-go mod tidy
-```
-
 ## Kafka
 
 ```bash
